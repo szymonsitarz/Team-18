@@ -22,6 +22,8 @@ public class Math {
     public static int min(int a, int b){
 
         int minimum = Math.min(a,b);
+        
+        return minimum;
 
     }
 
